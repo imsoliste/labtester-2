@@ -13,7 +13,7 @@ const Footer = () => {
               <span className="text-xl font-bold text-white">MedLab Compare</span>
             </div>
             <p className="text-sm">
-              Making healthcare accessible and affordable through technology.
+              Making healthcare accessible.
             </p>
           </div>
           
